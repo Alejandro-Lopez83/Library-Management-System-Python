@@ -1,4 +1,4 @@
-# 📚 Library Management System
+# 📚 Library Management System Python
 
 [![English](https://img.shields.io/badge/lang-English-blue.svg)](#english) [![Español](https://img.shields.io/badge/lang-Espa%C3%B1ol-red.svg)](#español)
 
